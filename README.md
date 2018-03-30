@@ -74,7 +74,9 @@ The images are saved in the file manager. Menu>Accessories>File Manager. You can
 Use the code to take a photo and storing it by date. You can use various cmd such as `–r` (resolution), `--no-banner` (to remove banner from below the image) and others.
 
 `#!/bin/bash`
+
 `DATE=$(date +"%Y-%m-%d_%H%M")`
+
 `fswebcam -r 1280x720 --no-banner /home/pi/webcam/$DATE.`
 
 Make the file executable sudo chmod +x webcam.sh & then run ./webcam.sh
