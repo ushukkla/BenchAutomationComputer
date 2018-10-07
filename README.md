@@ -144,7 +144,9 @@ This app provides an interface for normal users to use various features of the P
 
 •	Working on Relay Module, recording videos through USB camera & bench application is under development.
 
+--------------------------------------------------------------------------------------------------------------------------------
 
+If you like the project and have used the source code anywhere, would love to hear from you at [![Say Thanks!](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/Manu-shukla)
 
 
 
