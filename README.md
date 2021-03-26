@@ -1,5 +1,5 @@
 # BENCH AUTOMATION COMPUTER
-
+## Find the paper link over here-: https://link.springer.com/chapter/10.1007/978-981-13-1747-7_47
 To make a portable automation computer you need the following:
 ## Hardware components
 
